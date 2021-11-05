@@ -1,4 +1,4 @@
-package com.hopeofdepair.dsvendas.contrrollers;
+package com.hopeofdepair.dsvendas.controllers;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import com.hopeofdepair.dsvendas.service.SellerService;
 
 @RestController
 @RequestMapping(value = "/sellers")
-public class SaleController {
+public class SellerController {
 	
 	@Autowired
 	private SellerService service;
