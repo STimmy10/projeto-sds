@@ -13,7 +13,7 @@ function Dashboard() {
 
         <div className="row px-3">
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Porcentagem de Vendas mensais</h5>
+            <h5 className="text-center text-secondary">Porcentagem de Vendas por visita</h5>
             <BarChart />
           </div>
           <div className="col-sm-6">
