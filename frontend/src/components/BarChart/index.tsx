@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { StringifyOptions } from 'querystring';
 import React, { useEffect, useState } from 'react';
 import Chart from 'react-apexcharts'
 import { SaleSuccess } from 'types/sale';
